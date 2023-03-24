@@ -1,10 +1,10 @@
-baseURL: https://github.com/zmd58/zmd58.github.io/
+baseURL: https://github.com/zmdtea/zmdtea.github.io/
 languageCode: en-us
 defaultContentLanguage: en
-title: Vivus.Cloud
+title: cupoftea
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
-disqusShortname: zmd58
+disqusShortname: zmdtea
 enableGitInfo: true
 
 taxonomies:
@@ -19,10 +19,10 @@ imaging:
 params:
   description: Living Among The Clouds
   homeMetaContent: Living Among The Clouds
-  footer: Copyright © 2023 Zoe Dang
+  footer: Copyright © 2023 Cup Of Tea
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Mar 23, 2023
-  codePenUser: zmd58
+  codePenUser: zmdtea
   katex: true
   hideHeaderLinks: false
   search: true
@@ -30,7 +30,7 @@ params:
   defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
-  logoAlt: Vivus.CLoud Logo
+  logoAlt: Cup Of Tea Logo
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -38,7 +38,7 @@ params:
     - js/custom_01.js
     - js/custom_02.js
   utterances:
-    repo: zmd58/zmd58.github.io
+    repo: zmdtea/zmdtea.github.io
     issueTerm: title
     theme: github-light
 

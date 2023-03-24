@@ -1,9 +1,9 @@
 ---
-date: "2017-06-26T18:27:58+01:00"
+date: "2023-24-03"
 title: "Home"
 ---
 
-Welcome to Vivus.Cloud Blog, a place to explore new ideas and have fun!
+Welcome to Cup of Tea Blog, a place to explore new ideas and have fun!
 
 {{< ticks >}}
 
