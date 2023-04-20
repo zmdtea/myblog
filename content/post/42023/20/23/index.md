@@ -6,19 +6,19 @@ toc: false
 ---
 
 {{< blockquote author="Zoe Dang" >}}
-Text
+Text 1
 {{< /blockquote >}}
 
 ## Young Adults
 
 {{< expandable label="A section of dummy text" level="2" >}}
-Text
+Text 2
 {{< /expandable >}}
 
 ## Adults
 
 {{< expandable label="A section of dummy text" level="2" >}}
-Text
+Text 3
 {{< /expandable >}}
 
 ## All
