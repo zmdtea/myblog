@@ -11,7 +11,7 @@ The greatest enemy is **yourself**, keep on learning, keep on improving, and do 
 
 ## Part I
 
-<!-- {{< cmd >}} -->
+<!-- {{< blocktext >}} -->
 
 You know what? Your life is in your hands, and you have more control than you think! It may seem like your family is trying to dictate your choices, but deep down, they only want what's best for you.
 
