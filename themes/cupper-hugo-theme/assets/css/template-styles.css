@@ -252,6 +252,9 @@ label {
   padding: 0.25em 0.75em;
   margin: 0.5rem;
 }
+[for="themer"]:hover {
+  opacity: 1;
+}
 [for="themer"] [aria-hidden]::before {
   content: 'off';
 }
