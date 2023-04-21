@@ -21,7 +21,7 @@ params:
   homeMetaContent: Living Among The Clouds
   footer: Copyright © 2023 Cup Of Tea
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Mar 23, 2023
+  dateFormat: Monday, January 2, 2006
   codePenUser: zmdtea
   katex: true
   hideHeaderLinks: false
