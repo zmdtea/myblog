@@ -5,7 +5,7 @@ tags: [Post1, begin]
 toc: false
 ---
 
-{{< blockquote author="Zoe Dang" >}}
+{{< blockquote author="Zoe" >}}
 The greatest enemy is yourself, keep on learning, keep on improving, and do not stop.
 {{< /blockquote >}}
 
