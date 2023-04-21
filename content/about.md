@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-<!-- Hello! My name is Zoe!
+Hello! My name is Zoe!
 
-I am a passionate coder with a thirst for knowledge, I am deeply committed to leveraging my skills to enhance our daily lives and transform businesses. My ultimate aim is to make a meaningful and positive impact on the world, and I strive for excellence in my work.
+I'm a fellow young soul who was once lost, but now I've found my way. And you know what? I'm here to be a guiding light for others, to lift them up and cheer them on in their fight.
 
-With a focus on delivering top-tier results without losing sight of the bigger picture, I am eager to collaborate with others to bring my talents to bear on important projects. I am excited about the opportunities ahead and look forward to using my abilities to make a real difference. -->
+Life can be tough, but I've learned that we're all in this together. So, I'm here to offer my unwavering support, to be a source of encouragement, and to help you keep pushing forward, no matter what challenges you face.
+
+You're not alone, and I'm here to walk alongside you on this journey, cheering you on every step of the way. You've got this, and I believe in you wholeheartedly!
+
+Remember, you are strong, resilient, and capable of overcoming anything. Keep fighting, my friend, and know that even if no one believes in you, I do. So don't you dare give up on yourself!
