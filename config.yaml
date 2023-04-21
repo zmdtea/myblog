@@ -4,7 +4,7 @@ defaultContentLanguage: en
 title: cupoftea
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
-disqusShortname: zmdtea
+# disqusShortname: zmdtea
 enableGitInfo: false
 
 taxonomies:
