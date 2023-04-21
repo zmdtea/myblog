@@ -13,5 +13,5 @@ Welcome to Cup of Tea Blog, a place to explore new ideas and have fun!
 - Plant?
 - Keyboard?
 - Mouse?
-- Let's go!
+- [Let's go!](/content/post/)
   {{< /ticks >}}
