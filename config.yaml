@@ -37,10 +37,10 @@ params:
   customJs:
     - js/custom_01.js
     - js/custom_02.js
-  utterances:
-    repo: zmdtea/zmdtea.github.io
-    issueTerm: title
-    theme: github-light
+  # utterances:
+  #   repo: zmdtea/zmdtea.github.io
+  #   issueTerm: title
+  #   theme: github-light
 
 menu:
   nav:
@@ -50,15 +50,15 @@ menu:
     - name: Blog
       url: /post/
       weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
     - name: About
       url: /about/
       weight: 4
     - name: Contact
       url: /contact/
       weight: 5
+    - name: Tags
+      url: /tags/
+      weight: 3
 
 markup:
   defaultMarkdownHandler: goldmark
