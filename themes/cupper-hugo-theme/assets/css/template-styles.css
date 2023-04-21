@@ -252,7 +252,7 @@ label {
   padding: 0.25em 0.75em;
   margin: 0.5rem;
 }
-[for="themer"]:hover {
+[for="themer"]:focus {
   cursor: pointer;
 }
 [for="themer"] [aria-hidden]::before {
