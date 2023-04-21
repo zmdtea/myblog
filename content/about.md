@@ -12,4 +12,4 @@ You're not alone, and I'm here to walk alongside you on this journey, cheering y
 
 Remember, you are strong, resilient, and capable of overcoming anything. Keep fighting, my friend, and know that even if no one believes in you, I do. So don't you dare give up on yourself!
 
-Reach me at: [My Email](mailto:zmdtea@gmail.com)
+Reach me at: [My Email](mailto:eoztea@gmail.com)
