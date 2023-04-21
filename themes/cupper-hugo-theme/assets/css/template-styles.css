@@ -177,6 +177,23 @@ code {
     background: #fefefe;
     color: rgba(0,0,0,.8);
 }
+.blocktext {
+    padding: 0.75rem;
+    background: #111;
+}
+.blocktext code {
+    color: #fefefe;
+    white-space: pre-wrap;
+}
+.blocktext code::before {
+    /* content: ''; */
+    font-weight: bold;
+    padding-right: 0.25em;
+}
+.blocktext code::selection{
+    background: #fefefe;
+    color: rgba(0,0,0,.8);
+}
 /* Lists */
 main ul,
 main ol {
