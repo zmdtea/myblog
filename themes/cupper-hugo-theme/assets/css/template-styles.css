@@ -179,10 +179,10 @@ code {
 }
 .blocktext {
     padding: 0.75rem;
-    background: #111;
+    background: rgb(235, 235, 235);
 }
 .blocktext code {
-    color: #fefefe;
+    color: #000000;
     white-space: pre-wrap;
 }
 .blocktext code::before {
@@ -192,7 +192,7 @@ code {
 }
 .blocktext code::selection{
     background: #fefefe;
-    color: rgba(0,0,0,.8);
+    color: rgba(0,0,0,0.8);
 }
 /* Lists */
 main ul,
