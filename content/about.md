@@ -4,7 +4,7 @@ title: "About"
 
 Hello! My name is Zoe!
 
-I'm a fellow young soul who was once lost, but now I've found my way. And you know what? I'm here to be a guiding light for others, to lift them up and cheer them on in their fight.
+I'm a fellow young soul who was once lost, but now I've found my way. And you know what? I'm here to be a guiding light for you, to lift you up and cheer you on in your fight.
 
 Life can be tough, but I've learned that we're all in this together. So, I'm here to offer my unwavering support, to be a source of encouragement, and to help you keep pushing forward, no matter what challenges you face.
 
