@@ -6,7 +6,7 @@ toc: false
 ---
 
 {{< blockquote author="Zoe" >}}
-The greatest enemy is _yourself_, keep on learning, keep on improving, and do not stop.
+The greatest enemy is **yourself**, keep on learning, keep on improving, and do not stop.
 {{< /blockquote >}}
 
 ## Part I
