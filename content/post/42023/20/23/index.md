@@ -1,12 +1,12 @@
 ---
 title: "Do What You Love And Love What You Do"
 date: 2023-04-20
-tags: [Post1, begin]
+tags: [post1, begin]
 toc: false
 ---
 
 {{< blockquote author="Zoe" >}}
-The greatest enemy is yourself, keep on learning, keep on improving, and do not stop.
+The greatest enemy is _yourself_, keep on learning, keep on improving, and do not stop.
 {{< /blockquote >}}
 
 ## Part I
@@ -40,7 +40,7 @@ My friend, if you ever find yourself feeling alone and like there's no one to tu
 - Do not give up,
 - You are unique,
 - Nobody can replace you,
-- You are not alone!
+- You can achieve your goals!
   {{< /ticks >}}
 
 <!-- {{< figureCupper
