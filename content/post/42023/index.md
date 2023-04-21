@@ -38,7 +38,7 @@ My friend, if you ever find yourself feeling alone and like there's no one to tu
 \*hug\*
 {{< /expandable >}}
 
-## Remember
+## Conclusion
 
 {{< ticks >}}
 
