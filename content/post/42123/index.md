@@ -6,7 +6,7 @@ toc: false
 ---
 
 {{< blockquote author="Zoe" >}}
-Everytime you turn right, you must also look at your left side.
+Everytime you turn right, you must also look at your left.
 {{< /blockquote >}}
 
 ## Part I
