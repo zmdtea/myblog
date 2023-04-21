@@ -11,7 +11,7 @@ Everytime you turn right, you must also look at your left side.
 
 ## Part I
 
-{{< expandable label="Where it starts..." level="2" >}}
+{{< expandable label="Where it starts..." level="1" >}}
 Sometimes, it's as if everything I had fades away, leaving me with nothing. Out of nowhere, a wave of profound sadness crashes over me, engulfing my entire being. It's like a relentless wormhole of negativity that I can't escape from. My mind feels clouded, unable to focus on anything else but the overwhelming sorrow that permeates my being.
 
 I desperately want it to stop, to understand why I'm feeling this way, but I'm at a loss. I'm unable to pinpoint the cause of this emotional onslaught. Slowly, memories of painful moments from my past flood my mind, adding to the weight of my sorrow. It's as if I'm drowning in the middle of a pitch-black ocean with no sight of a lifeboat to rescue me.
@@ -31,7 +31,7 @@ True healing comes when we can transform these experiences into memories that no
 
 ## Part III
 
-{{< expandable label="Encouragements and suggestions..." level="2" >}}
+{{< expandable label="Encouragements and suggestions..." level="3" >}}
 I urge everyone to prioritize regular self-care breaks. Your well-being is crucial for your productivity and ability to support others. When you're feeling depleted at 50% health, a task may take 8 hours to complete, but when you're operating at 100%, it might only take 4 hours. Take time to reflect and understand your emotions, thoughts, and needs. It's unrealistic to expect others to read your mind and fulfill your internal desires if you haven't even grasped 80% of your own being. **So brighten up, you are not alone and take one step at a time!**
 {{< /expandable >}}
 
@@ -45,9 +45,3 @@ I urge everyone to prioritize regular self-care breaks. Your well-being is cruci
 - Never regret,
 - Look forward!
   {{< /ticks >}}
-
-<!-- {{< figureCupper
-img="sun.jpg"
-caption="The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. [Credits](https://images.nasa.gov/details-GSFC_20171208_Archive_e000393.html)."
-command="Resize"
-options="700x" >}} -->
