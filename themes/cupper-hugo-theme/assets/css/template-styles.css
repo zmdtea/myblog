@@ -253,7 +253,7 @@ label {
   margin: 0.5rem;
 }
 [for="themer"]:hover {
-  opacity: 0.5;
+  cursor: pointer;
 }
 [for="themer"] [aria-hidden]::before {
   content: 'off';
