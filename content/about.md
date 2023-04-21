@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Hello! My name is Zoe!
+Hi! My name is **Zoe**!
 
 I'm a fellow young soul who was once lost, but now I've found my way. And you know what? I'm here to be a guiding light for you, to lift you up and cheer you on in your fight.
 
