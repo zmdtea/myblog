@@ -184,6 +184,7 @@ code {
     border-right: transparent;
     border-top-width: 3px;
     border-bottom-width: 3px;
+    overflow: hidden;
 }
 .blocktext code {
     color: #000000;
